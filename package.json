@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "Centerprime Node Binance Smart Chain SDK",
   "type": "module",
-  "main": "src/centerprime.js",
+  "main": "server.js",
   "keywords": [
     "ethereum",
     "blockchain",
